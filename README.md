@@ -1,1 +1,1 @@
-# Sentiment-Data
+# Mintlify project data
